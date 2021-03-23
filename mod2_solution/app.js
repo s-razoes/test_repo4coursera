@@ -38,6 +38,8 @@ function ShoppingListCheckOffService(){
   service.ItemsListToBuy = [
       { name: "cookies", quantity: 10 },
       { name: "chips", quantity: 20 },
+      { name: "lolipops", quantity: 5 },
+      { name: "chocolate bar", quantity: 1 },
       { name: "chocolate milk", quantity: 2 }
     ];
   service.ItemsListBought = [];
